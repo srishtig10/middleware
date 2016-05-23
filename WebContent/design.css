@@ -1,0 +1,30 @@
+@CHARSET "ISO-8859-1";
+body{
+  margin: 0 auto;
+  background: url('Movie_background.jpg') no-repeat;
+  background-size: cover;
+}
+#container{
+  margin: 100px;
+  padding: 5px;
+}
+body#stylemain{
+  margin: 0 auto;
+  background: url('Movie_background.jpg') no-repeat;
+  background-size: cover;
+}@CHARSET "ISO-8859-1";
+body
+{
+	color: whitesmoke;
+}
+
+div#pop-up{
+  display: block;
+  position: absolute;
+  width: 250px;
+  padding: 10px;
+  background: #000000;
+  color: #FFFFFF;
+  border: 1px solid #1a1a1a;
+  font-size: 90%;
+}
